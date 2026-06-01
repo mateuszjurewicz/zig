@@ -3,7 +3,7 @@ zig-out/
 *.o
 
 # vscode
-.vscode/
+# .vscode/
 
 # mac
 .DS_Store
